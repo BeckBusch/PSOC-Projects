@@ -13,10 +13,25 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSOC Workspace\psoc testing\Generated_Source\PSoC5">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSOC Workspace\Binary Clock\Source Files\main.c">
 <ExpandedNodeIds>
 <v>PSOC Workspace</v>
-<v>PSOC Workspace\psoc testing</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\TopDesign</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Pins</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Analog</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Clocks</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Interrupts</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\DMA</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\System</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Directives</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Flash Security</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\EEPROM</v>
+<v>PSOC Workspace\Binary Clock\Header Files</v>
+<v>PSOC Workspace\Binary Clock\Header Files\cyapicallbacks.h</v>
+<v>PSOC Workspace\Binary Clock\Source Files</v>
+<v>PSOC Workspace\Binary Clock\Source Files\main.c</v>
 <v>PSOC Workspace\psoc testing\TopDesign</v>
 <v>PSOC Workspace\psoc testing\psoc testing.cydwr</v>
 <v>PSOC Workspace\psoc testing\psoc testing.cydwr\Pins</v>
@@ -36,35 +51,36 @@
 <v>PSOC Workspace\psoc testing\Source Files\frame.c</v>
 <v>PSOC Workspace\psoc testing\Source Files\main.c</v>
 <v>PSOC Workspace\psoc testing\Generated_Source</v>
+<v>PSOC Workspace\uart reference\TopDesign</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOC Workspace</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\TopDesign</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Pins</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Analog</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Clocks</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Interrupts</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\DMA</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\System</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Directives</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Flash Security</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\EEPROM</v>
+<v>PSOC Workspace\Binary Clock\Header Files</v>
+<v>PSOC Workspace\Binary Clock\Header Files\cyapicallbacks.h</v>
+<v>PSOC Workspace\Binary Clock\Source Files</v>
+<v>PSOC Workspace\Binary Clock\Source Files\main.c</v>
 <v>PSOC Workspace\psoc testing</v>
-<v>PSOC Workspace\psoc testing\TopDesign</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Pins</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Analog</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Clocks</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Interrupts</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\DMA</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\System</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Directives</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Flash Security</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\EEPROM</v>
-<v>PSOC Workspace\psoc testing\Header Files</v>
-<v>PSOC Workspace\psoc testing\Header Files\cyapicallbacks.h</v>
-<v>PSOC Workspace\psoc testing\Header Files\frame.h</v>
-<v>PSOC Workspace\psoc testing\Header Files\main.h</v>
-<v>PSOC Workspace\psoc testing\Source Files</v>
-<v>PSOC Workspace\psoc testing\Source Files\frame.c</v>
-<v>PSOC Workspace\psoc testing\Source Files\main.c</v>
-<v>PSOC Workspace\psoc testing\Generated_Source</v>
-<v>PSOC Workspace\psoc testing\Generated_Source\PSoC5</v>
+<v>PSOC Workspace\uart reference</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
 <v>PSOC Workspace</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\TopDesign</v>
+<v>PSOC Workspace\Binary Clock\TopDesign\TopDesign.cysch</v>
 <v>PSOC Workspace\psoc testing</v>
 <v>PSOC Workspace\psoc testing\TopDesign</v>
 <v>PSOC Workspace\psoc testing\TopDesign\TopDesign.cysch</v>
@@ -72,15 +88,29 @@
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOC Workspace</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\TopDesign</v>
+<v>PSOC Workspace\Binary Clock\TopDesign\TopDesign.cysch</v>
 <v>PSOC Workspace\psoc testing</v>
 <v>PSOC Workspace\psoc testing\TopDesign</v>
 <v>PSOC Workspace\psoc testing\TopDesign\TopDesign.cysch</v>
 <v>PSOC Workspace\psoc testing\TopDesign\TopDesign_01.cymacro</v>
+<v>PSOC Workspace\uart reference</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
 <v>PSOC Workspace</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\CortexM3</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.elf</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.hex</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.map</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.gpdsc</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.rpt</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock_timing.html</v>
 <v>PSOC Workspace\psoc testing</v>
 <v>PSOC Workspace\psoc testing\CortexM3</v>
 <v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541</v>
@@ -119,9 +149,21 @@
 <v>PSOC Workspace\psoc testing\psoc testing.gpdsc</v>
 <v>PSOC Workspace\psoc testing\psoc testing.rpt</v>
 <v>PSOC Workspace\psoc testing\psoc testing_timing.html</v>
+<v>PSOC Workspace\uart reference</v>
+<v>PSOC Workspace\uart reference\uart reference.gpdsc</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOC Workspace</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\CortexM3</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.elf</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.hex</v>
+<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.map</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.gpdsc</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock.rpt</v>
+<v>PSOC Workspace\Binary Clock\Binary Clock_timing.html</v>
 <v>PSOC Workspace\psoc testing</v>
 <v>PSOC Workspace\psoc testing\CortexM3</v>
 <v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541</v>
@@ -160,6 +202,7 @@
 <v>PSOC Workspace\psoc testing\psoc testing.gpdsc</v>
 <v>PSOC Workspace\psoc testing\psoc testing.rpt</v>
 <v>PSOC Workspace\psoc testing\psoc testing_timing.html</v>
+<v>PSOC Workspace\uart reference</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -170,6 +213,19 @@
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
 <v>PSOC Workspace</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\PSoC 5LP Architecture TRM</v>
+<v>PSOC Workspace\Binary Clock\CY8C58LP Family Datasheet</v>
+<v>PSOC Workspace\Binary Clock\System Reference Guides</v>
+<v>PSOC Workspace\Binary Clock\System Reference Guides\cy_boot_v6_0</v>
+<v>PSOC Workspace\Binary Clock\cy_clock_v2_20.pdf</v>
+<v>PSOC Workspace\Binary Clock\cy_isr_v1_70.pdf</v>
+<v>PSOC Workspace\Binary Clock\cy_pins_v2_20</v>
+<v>PSOC Workspace\Binary Clock\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>PSOC Workspace\Binary Clock\CyControlReg_v1_80</v>
+<v>PSOC Workspace\Binary Clock\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>PSOC Workspace\Binary Clock\Timer_v2_80.pdf</v>
+<v>PSOC Workspace\Binary Clock\ZeroTerminal.pdf</v>
 <v>PSOC Workspace\psoc testing</v>
 <v>PSOC Workspace\psoc testing\PSoC 5LP Architecture TRM</v>
 <v>PSOC Workspace\psoc testing\CY8C58LP Family Datasheet</v>
@@ -182,9 +238,32 @@
 <v>PSOC Workspace\psoc testing\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>PSOC Workspace\psoc testing\Timer_v2_80.pdf</v>
 <v>PSOC Workspace\psoc testing\ZeroTerminal.pdf</v>
+<v>PSOC Workspace\uart reference\PSoC 5LP Architecture TRM</v>
+<v>PSOC Workspace\uart reference\CY8C58LP Family Datasheet</v>
+<v>PSOC Workspace\uart reference\System Reference Guides</v>
+<v>PSOC Workspace\uart reference\System Reference Guides\cy_boot_v5_70</v>
+<v>PSOC Workspace\uart reference\cy_isr_v1_70</v>
+<v>PSOC Workspace\uart reference\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>PSOC Workspace\uart reference\cy_pins_v2_20</v>
+<v>PSOC Workspace\uart reference\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>PSOC Workspace\uart reference\UART_v2_50.pdf</v>
+<v>PSOC Workspace\uart reference\USBFS_v3_20.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOC Workspace</v>
+<v>PSOC Workspace\Binary Clock</v>
+<v>PSOC Workspace\Binary Clock\PSoC 5LP Architecture TRM</v>
+<v>PSOC Workspace\Binary Clock\CY8C58LP Family Datasheet</v>
+<v>PSOC Workspace\Binary Clock\System Reference Guides</v>
+<v>PSOC Workspace\Binary Clock\System Reference Guides\cy_boot_v6_0</v>
+<v>PSOC Workspace\Binary Clock\cy_clock_v2_20.pdf</v>
+<v>PSOC Workspace\Binary Clock\cy_isr_v1_70.pdf</v>
+<v>PSOC Workspace\Binary Clock\cy_pins_v2_20</v>
+<v>PSOC Workspace\Binary Clock\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>PSOC Workspace\Binary Clock\CyControlReg_v1_80</v>
+<v>PSOC Workspace\Binary Clock\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>PSOC Workspace\Binary Clock\Timer_v2_80.pdf</v>
+<v>PSOC Workspace\Binary Clock\ZeroTerminal.pdf</v>
 <v>PSOC Workspace\psoc testing</v>
 <v>PSOC Workspace\psoc testing\PSoC 5LP Architecture TRM</v>
 <v>PSOC Workspace\psoc testing\CY8C58LP Family Datasheet</v>
@@ -197,10 +276,16 @@
 <v>PSOC Workspace\psoc testing\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
 <v>PSOC Workspace\psoc testing\Timer_v2_80.pdf</v>
 <v>PSOC Workspace\psoc testing\ZeroTerminal.pdf</v>
+<v>PSOC Workspace\uart reference</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
 </CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
 </dataGuid>
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
