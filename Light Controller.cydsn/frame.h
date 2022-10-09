@@ -1,13 +1,15 @@
-#ifndef FRAME_H_
-#define FRAME_H_
+#ifndef FRAME_H
+#define FRAME_H
 
 #include "project.h"
+
 
 struct frame {
     int pos;
     
-    int port12[8];
+    int blockA;
 };
+
 
 struct frameList {
     int frameCount;

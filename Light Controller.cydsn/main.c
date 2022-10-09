@@ -1,5 +1,13 @@
-#include "main.h"
+#include "project.h"
 #include "frame.h"
+
+uint8 tickCount;
+uint8 reset;
+uint8 curFrame;
+uint8 nextFrame;
+
+CY_ISR_PROTO(timerIntISR);
+CY_ISR_PROTO(switchIntISR);
 
 CY_ISR(timerIntISR) {
     tickCount++;
@@ -41,30 +49,28 @@ int main(void) {
             curFrame = nextFrame;
             nextFrame++;
             
-            pin12_0_Write(scene.frameList[curFrame].port12[0]);
-            pin12_1_Write(scene.frameList[curFrame].port12[1]);
-            pin12_2_Write(scene.frameList[curFrame].port12[2]);
-            pin12_3_Write(scene.frameList[curFrame].port12[3]);
-            pin12_4_Write(scene.frameList[curFrame].port12[4]);
-            pin12_5_Write(scene.frameList[curFrame].port12[5]);
-            pin12_6_Write(scene.frameList[curFrame].port12[6]);
-            pin12_7_Write(scene.frameList[curFrame].port12[7]);
+            Control_Reg_A_Write(scene.frameList[curFrame].blockA);
         }
     }
 }
 
 void createScene() {
-    scene.frameCount = 2;
+    scene.frameCount = 5;
     
     scene.frameList[0].pos = 0;
+    scene.frameList[0].blockA = 0b00000001;
     
-    scene.frameList[0].port12[0] = 1;
-    scene.frameList[0].port12[3] = 1;
-    scene.frameList[0].port12[6] = 1;
+    scene.frameList[1].pos = 5;
+    scene.frameList[1].blockA = 0b00000010;
     
-    scene.frameList[1].pos = 15;
+    scene.frameList[2].pos = 10;
+    scene.frameList[2].blockA = 0b00000100;
     
-    scene.frameList[1].port12[3] = 1;
+    scene.frameList[3].pos = 15;
+    scene.frameList[3].blockA = 0b00001000;
+    
+    scene.frameList[4].pos = 20;
+    scene.frameList[4].blockA = 0b00010000;
 }
 
 /* [] END OF FILE */

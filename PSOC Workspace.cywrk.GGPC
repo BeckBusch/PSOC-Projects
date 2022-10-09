@@ -13,10 +13,9 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSOC Workspace\Binary Clock\Source Files\main.c">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PSOC Workspace\Light Controller\Source Files\frame.h">
 <ExpandedNodeIds>
 <v>PSOC Workspace</v>
-<v>PSOC Workspace\Binary Clock</v>
 <v>PSOC Workspace\Binary Clock\TopDesign</v>
 <v>PSOC Workspace\Binary Clock\Binary Clock.cydwr</v>
 <v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Pins</v>
@@ -32,46 +31,50 @@
 <v>PSOC Workspace\Binary Clock\Header Files\cyapicallbacks.h</v>
 <v>PSOC Workspace\Binary Clock\Source Files</v>
 <v>PSOC Workspace\Binary Clock\Source Files\main.c</v>
-<v>PSOC Workspace\psoc testing\TopDesign</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Pins</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Analog</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Clocks</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Interrupts</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\DMA</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\System</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Directives</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\Flash Security</v>
-<v>PSOC Workspace\psoc testing\psoc testing.cydwr\EEPROM</v>
-<v>PSOC Workspace\psoc testing\Header Files</v>
-<v>PSOC Workspace\psoc testing\Header Files\cyapicallbacks.h</v>
-<v>PSOC Workspace\psoc testing\Header Files\frame.h</v>
-<v>PSOC Workspace\psoc testing\Header Files\main.h</v>
-<v>PSOC Workspace\psoc testing\Source Files</v>
-<v>PSOC Workspace\psoc testing\Source Files\frame.c</v>
-<v>PSOC Workspace\psoc testing\Source Files\main.c</v>
-<v>PSOC Workspace\psoc testing\Generated_Source</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\TopDesign</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Pins</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Analog</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Clocks</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Interrupts</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\DMA</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\System</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Directives</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Flash Security</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\EEPROM</v>
+<v>PSOC Workspace\Light Controller\Header Files</v>
+<v>PSOC Workspace\Light Controller\Header Files\cyapicallbacks.h</v>
+<v>PSOC Workspace\Light Controller\Source Files</v>
+<v>PSOC Workspace\Light Controller\Source Files\frame.c</v>
+<v>PSOC Workspace\Light Controller\Source Files\frame.h</v>
+<v>PSOC Workspace\Light Controller\Source Files\main.c</v>
+<v>PSOC Workspace\Light Controller\Generated_Source</v>
 <v>PSOC Workspace\uart reference\TopDesign</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOC Workspace</v>
 <v>PSOC Workspace\Binary Clock</v>
-<v>PSOC Workspace\Binary Clock\TopDesign</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Pins</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Analog</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Clocks</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Interrupts</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\DMA</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\System</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Directives</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\Flash Security</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.cydwr\EEPROM</v>
-<v>PSOC Workspace\Binary Clock\Header Files</v>
-<v>PSOC Workspace\Binary Clock\Header Files\cyapicallbacks.h</v>
-<v>PSOC Workspace\Binary Clock\Source Files</v>
-<v>PSOC Workspace\Binary Clock\Source Files\main.c</v>
-<v>PSOC Workspace\psoc testing</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\TopDesign</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Pins</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Analog</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Clocks</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Interrupts</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\DMA</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\System</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Directives</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\Flash Security</v>
+<v>PSOC Workspace\Light Controller\Light Controller.cydwr\EEPROM</v>
+<v>PSOC Workspace\Light Controller\Header Files</v>
+<v>PSOC Workspace\Light Controller\Header Files\cyapicallbacks.h</v>
+<v>PSOC Workspace\Light Controller\Source Files</v>
+<v>PSOC Workspace\Light Controller\Source Files\frame.c</v>
+<v>PSOC Workspace\Light Controller\Source Files\frame.h</v>
+<v>PSOC Workspace\Light Controller\Source Files\main.c</v>
+<v>PSOC Workspace\Light Controller\Generated_Source</v>
+<v>PSOC Workspace\Light Controller\Generated_Source\PSoC5</v>
 <v>PSOC Workspace\uart reference</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
@@ -81,20 +84,20 @@
 <v>PSOC Workspace\Binary Clock</v>
 <v>PSOC Workspace\Binary Clock\TopDesign</v>
 <v>PSOC Workspace\Binary Clock\TopDesign\TopDesign.cysch</v>
-<v>PSOC Workspace\psoc testing</v>
-<v>PSOC Workspace\psoc testing\TopDesign</v>
-<v>PSOC Workspace\psoc testing\TopDesign\TopDesign.cysch</v>
-<v>PSOC Workspace\psoc testing\TopDesign\TopDesign_01.cymacro</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\TopDesign</v>
+<v>PSOC Workspace\Light Controller\TopDesign\TopDesign.cysch</v>
+<v>PSOC Workspace\Light Controller\TopDesign\TopDesign_01.cymacro</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOC Workspace</v>
 <v>PSOC Workspace\Binary Clock</v>
 <v>PSOC Workspace\Binary Clock\TopDesign</v>
 <v>PSOC Workspace\Binary Clock\TopDesign\TopDesign.cysch</v>
-<v>PSOC Workspace\psoc testing</v>
-<v>PSOC Workspace\psoc testing\TopDesign</v>
-<v>PSOC Workspace\psoc testing\TopDesign\TopDesign.cysch</v>
-<v>PSOC Workspace\psoc testing\TopDesign\TopDesign_01.cymacro</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\TopDesign</v>
+<v>PSOC Workspace\Light Controller\TopDesign\TopDesign.cysch</v>
+<v>PSOC Workspace\Light Controller\TopDesign\TopDesign_01.cymacro</v>
 <v>PSOC Workspace\uart reference</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
@@ -111,98 +114,56 @@
 <v>PSOC Workspace\Binary Clock\Binary Clock.gpdsc</v>
 <v>PSOC Workspace\Binary Clock\Binary Clock.rpt</v>
 <v>PSOC Workspace\Binary Clock\Binary Clock_timing.html</v>
-<v>PSOC Workspace\psoc testing</v>
-<v>PSOC Workspace\psoc testing\CortexM3</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\ledPin.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_0.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_1.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_2.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_3.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_4.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_5.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_6.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_7.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\switchInt.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\switchPin.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\tickTimer.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\tickTimer_PM.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\timerClock.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\timerInt.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\psoc testing.elf</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\psoc testing.hex</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\psoc testing.map</v>
-<v>PSOC Workspace\psoc testing\psoc testing.gpdsc</v>
-<v>PSOC Workspace\psoc testing\psoc testing.rpt</v>
-<v>PSOC Workspace\psoc testing\psoc testing_timing.html</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\CortexM3</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_A.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\Control_Reg_A_PM.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\ledPin.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_0.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_1.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_2.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_3.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_4.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_5.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_6.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\pinA_7.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\switchInt.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\switchPin.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\tickTimer.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\tickTimer_PM.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\timerClock.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Listing Files\timerInt.lst</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Light Controller.elf</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Light Controller.hex</v>
+<v>PSOC Workspace\Light Controller\CortexM3\ARM_GCC_541\Debug\Light Controller.map</v>
+<v>PSOC Workspace\Light Controller\Light Controller.gpdsc</v>
+<v>PSOC Workspace\Light Controller\Light Controller.rpt</v>
+<v>PSOC Workspace\Light Controller\Light Controller_timing.html</v>
 <v>PSOC Workspace\uart reference</v>
 <v>PSOC Workspace\uart reference\uart reference.gpdsc</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PSOC Workspace</v>
 <v>PSOC Workspace\Binary Clock</v>
-<v>PSOC Workspace\Binary Clock\CortexM3</v>
-<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541</v>
-<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug</v>
-<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.elf</v>
-<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.hex</v>
-<v>PSOC Workspace\Binary Clock\CortexM3\ARM_GCC_541\Debug\Binary Clock.map</v>
-<v>PSOC Workspace\Binary Clock\Binary Clock.gpdsc</v>
 <v>PSOC Workspace\Binary Clock\Binary Clock.rpt</v>
 <v>PSOC Workspace\Binary Clock\Binary Clock_timing.html</v>
-<v>PSOC Workspace\psoc testing</v>
-<v>PSOC Workspace\psoc testing\CortexM3</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\ledPin.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_0.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_1.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_2.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_3.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_4.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_5.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_6.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\pin12_7.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\switchInt.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\switchPin.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\tickTimer.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\tickTimer_PM.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\timerClock.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\Listing Files\timerInt.lst</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\psoc testing.elf</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\psoc testing.hex</v>
-<v>PSOC Workspace\psoc testing\CortexM3\ARM_GCC_541\Debug\psoc testing.map</v>
-<v>PSOC Workspace\psoc testing\psoc testing.gpdsc</v>
-<v>PSOC Workspace\psoc testing\psoc testing.rpt</v>
-<v>PSOC Workspace\psoc testing\psoc testing_timing.html</v>
-<v>PSOC Workspace\uart reference</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\Light Controller.rpt</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -226,18 +187,19 @@
 <v>PSOC Workspace\Binary Clock\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
 <v>PSOC Workspace\Binary Clock\Timer_v2_80.pdf</v>
 <v>PSOC Workspace\Binary Clock\ZeroTerminal.pdf</v>
-<v>PSOC Workspace\psoc testing</v>
-<v>PSOC Workspace\psoc testing\PSoC 5LP Architecture TRM</v>
-<v>PSOC Workspace\psoc testing\CY8C58LP Family Datasheet</v>
-<v>PSOC Workspace\psoc testing\System Reference Guides</v>
-<v>PSOC Workspace\psoc testing\System Reference Guides\cy_boot_v6_0</v>
-<v>PSOC Workspace\psoc testing\cy_clock_v2_20.pdf</v>
-<v>PSOC Workspace\psoc testing\cy_isr_v1_70</v>
-<v>PSOC Workspace\psoc testing\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
-<v>PSOC Workspace\psoc testing\cy_pins_v2_20</v>
-<v>PSOC Workspace\psoc testing\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
-<v>PSOC Workspace\psoc testing\Timer_v2_80.pdf</v>
-<v>PSOC Workspace\psoc testing\ZeroTerminal.pdf</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\PSoC 5LP Architecture TRM</v>
+<v>PSOC Workspace\Light Controller\CY8C58LP Family Datasheet</v>
+<v>PSOC Workspace\Light Controller\System Reference Guides</v>
+<v>PSOC Workspace\Light Controller\System Reference Guides\cy_boot_v6_0</v>
+<v>PSOC Workspace\Light Controller\cy_clock_v2_20.pdf</v>
+<v>PSOC Workspace\Light Controller\cy_isr_v1_70</v>
+<v>PSOC Workspace\Light Controller\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>PSOC Workspace\Light Controller\cy_pins_v2_20</v>
+<v>PSOC Workspace\Light Controller\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>PSOC Workspace\Light Controller\CyControlReg_v1_80.pdf</v>
+<v>PSOC Workspace\Light Controller\Timer_v2_80.pdf</v>
+<v>PSOC Workspace\Light Controller\ZeroTerminal.pdf</v>
 <v>PSOC Workspace\uart reference\PSoC 5LP Architecture TRM</v>
 <v>PSOC Workspace\uart reference\CY8C58LP Family Datasheet</v>
 <v>PSOC Workspace\uart reference\System Reference Guides</v>
@@ -264,18 +226,19 @@
 <v>PSOC Workspace\Binary Clock\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
 <v>PSOC Workspace\Binary Clock\Timer_v2_80.pdf</v>
 <v>PSOC Workspace\Binary Clock\ZeroTerminal.pdf</v>
-<v>PSOC Workspace\psoc testing</v>
-<v>PSOC Workspace\psoc testing\PSoC 5LP Architecture TRM</v>
-<v>PSOC Workspace\psoc testing\CY8C58LP Family Datasheet</v>
-<v>PSOC Workspace\psoc testing\System Reference Guides</v>
-<v>PSOC Workspace\psoc testing\System Reference Guides\cy_boot_v6_0</v>
-<v>PSOC Workspace\psoc testing\cy_clock_v2_20.pdf</v>
-<v>PSOC Workspace\psoc testing\cy_isr_v1_70</v>
-<v>PSOC Workspace\psoc testing\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
-<v>PSOC Workspace\psoc testing\cy_pins_v2_20</v>
-<v>PSOC Workspace\psoc testing\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
-<v>PSOC Workspace\psoc testing\Timer_v2_80.pdf</v>
-<v>PSOC Workspace\psoc testing\ZeroTerminal.pdf</v>
+<v>PSOC Workspace\Light Controller</v>
+<v>PSOC Workspace\Light Controller\PSoC 5LP Architecture TRM</v>
+<v>PSOC Workspace\Light Controller\CY8C58LP Family Datasheet</v>
+<v>PSOC Workspace\Light Controller\System Reference Guides</v>
+<v>PSOC Workspace\Light Controller\System Reference Guides\cy_boot_v6_0</v>
+<v>PSOC Workspace\Light Controller\cy_clock_v2_20.pdf</v>
+<v>PSOC Workspace\Light Controller\cy_isr_v1_70</v>
+<v>PSOC Workspace\Light Controller\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>PSOC Workspace\Light Controller\cy_pins_v2_20</v>
+<v>PSOC Workspace\Light Controller\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>PSOC Workspace\Light Controller\CyControlReg_v1_80.pdf</v>
+<v>PSOC Workspace\Light Controller\Timer_v2_80.pdf</v>
+<v>PSOC Workspace\Light Controller\ZeroTerminal.pdf</v>
 <v>PSOC Workspace\uart reference</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
@@ -291,12 +254,11 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\psoc testing.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\psoc testing.cydsn\psoc testing.cydwr" />
-<name v=".\psoc testing.cydsn\main.c" />
-<name v=".\psoc testing.cydsn\main.h" />
-<name v=".\psoc testing.cydsn\frame.c" />
-<name v=".\psoc testing.cydsn\frame.h" />
+<name v=".\Light Controller.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Light Controller.cydsn\Light Controller.cydwr" />
+<name v=".\Light Controller.cydsn\main.c" />
+<name v=".\Light Controller.cydsn\frame.c" />
+<name v=".\Light Controller.cydsn\frame.h" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -304,7 +266,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1439, 751" SelectedTabbedMdiWindow="6cd55f9a-26c5-49d1-b3fc-fb55b6597d45"><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\psoc testing.cydsn\TopDesign\TopDesign.cysch" Guid="184896e6-b425-4fa9-a0c0-44ff3c1486bb" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\psoc testing.cydsn\psoc testing.cydwr" Guid="d92bf86b-6797-4307-8e64-3ee80a4e746c" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\psoc testing.cydsn\main.c" Guid="6cd55f9a-26c5-49d1-b3fc-fb55b6597d45" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\psoc testing.cydsn\main.h" Guid="86528208-1639-4b38-9b4b-8c877c301951" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\psoc testing.cydsn\frame.c" Guid="28d95136-7638-4604-b06c-370a2a4a99b3" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\psoc testing.cydsn\frame.h" Guid="4f1917c4-cffd-4f7e-abbb-b67ae8d1ab55" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="4f2df26a-c09e-4d3e-8f4e-b92e1f0504fd" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1439, 751" SelectedTabbedMdiWindow="b4a4b502-9cce-4339-9b8c-20a4dcc6494b"><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\Light Controller.cydsn\TopDesign\TopDesign.cysch" Guid="30d87d6b-22c0-4c04-becf-e8600db65b83" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\Light Controller.cydsn\Light Controller.cydwr" Guid="dc368fa4-aa4c-4a48-aaef-21fc2f12623d" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\Light Controller.cydsn\main.c" Guid="b4a4b502-9cce-4339-9b8c-20a4dcc6494b" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\Light Controller.cydsn\frame.c" Guid="973474b6-62d5-4da9-bc8e-76fb5feb3b48" /><DocumentWindow Key="C:\Users\GGPC\Documents\GitHub\PSOC-Projects\Light Controller.cydsn\frame.h" Guid="b83f1d66-7588-43ca-a709-2833a99941e4" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="4f2df26a-c09e-4d3e-8f4e-b92e1f0504fd" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

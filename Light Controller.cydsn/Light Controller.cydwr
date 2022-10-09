@@ -253,22 +253,22 @@
     <Group key="Pin">
       <Data key="1a3ad057-5d86-4cc9-b064-60105370fcef" value="pin1_5" />
       <Data key="3a68f01c-d30a-44ec-98aa-ef82f5477a80" value="pin1_3" />
-      <Data key="5d9ce65c-11ae-4380-bcc0-c69455ba7c71" value="pin12_2" />
+      <Data key="5d9ce65c-11ae-4380-bcc0-c69455ba7c71" value="pinA_2" />
       <Data key="06a027e0-834f-4fbc-8e47-7f6345e69cb7" value="switchPin" />
       <Data key="84b9c391-13fd-4d31-86a7-28ce590b841a" value="pin1_2" />
       <Data key="90cdf823-cab0-41a0-8a39-d6c6c7a32fa9" value="pin1_6" />
       <Data key="91cb805e-3eb7-49a6-a2ff-b2ea6199a478" value="pin1_1" />
-      <Data key="152a76dc-ece6-440b-8ea8-5f5e01c53d76" value="pin12_7" />
-      <Data key="43593061-ca1c-416f-896e-9db1c924ae01" value="pin12_6" />
-      <Data key="d05c172e-8e7a-4687-a2aa-cdc594a3850c" value="pin12_4" />
-      <Data key="d300904e-49e8-4297-84ca-d92c503d6ac7" value="pin12_3" />
+      <Data key="152a76dc-ece6-440b-8ea8-5f5e01c53d76" value="pinA_7" />
+      <Data key="43593061-ca1c-416f-896e-9db1c924ae01" value="pinA_6" />
+      <Data key="d05c172e-8e7a-4687-a2aa-cdc594a3850c" value="pinA_4" />
+      <Data key="d300904e-49e8-4297-84ca-d92c503d6ac7" value="pinA_3" />
       <Data key="e851a3b9-efb8-48be-bbb8-b303b216c393" value="ledPin" />
-      <Data key="e33711c3-e3db-4181-971f-275c15236f96" value="pin12_1" />
+      <Data key="e33711c3-e3db-4181-971f-275c15236f96" value="pinA_1" />
       <Data key="ed304e19-08b0-4162-9a2c-4e6d5e748145" value="pin1_0" />
       <Data key="eee9e11c-a611-4d16-b3b6-3eaef7f1e9a5" value="pin1_7" />
       <Data key="f23c46c5-44c9-4d71-b88d-43ed9489e7f8" value="pin1_4" />
-      <Data key="f6279b0e-9d2b-41f3-a503-ed67b8851c9e" value="pin12_5" />
-      <Data key="fec81979-9220-4a55-a1f9-df0c4b643a55" value="pin12_0" />
+      <Data key="f6279b0e-9d2b-41f3-a503-ed67b8851c9e" value="pinA_5" />
+      <Data key="fec81979-9220-4a55-a1f9-df0c4b643a55" value="pinA_0" />
     </Group>
   </Group>
   <Group key="EEPROM">
@@ -3367,7 +3367,7 @@
     </Group>
     <Group key="5d9ce65c-11ae-4380-bcc0-c69455ba7c71">
       <Group key="0">
-        <Data key="Port Format" value="12,2" />
+        <Data key="Port Format" value="1,1" />
       </Group>
     </Group>
     <Group key="06a027e0-834f-4fbc-8e47-7f6345e69cb7">
@@ -3392,7 +3392,7 @@
     </Group>
     <Group key="152a76dc-ece6-440b-8ea8-5f5e01c53d76">
       <Group key="0">
-        <Data key="Port Format" value="12,7" />
+        <Data key="Port Format" value="2,7" />
       </Group>
     </Group>
     <Group key="43593061-ca1c-416f-896e-9db1c924ae01">
@@ -3402,12 +3402,12 @@
     </Group>
     <Group key="d05c172e-8e7a-4687-a2aa-cdc594a3850c">
       <Group key="0">
-        <Data key="Port Format" value="12,4" />
+        <Data key="Port Format" value="12,2" />
       </Group>
     </Group>
     <Group key="d300904e-49e8-4297-84ca-d92c503d6ac7">
       <Group key="0">
-        <Data key="Port Format" value="12,3" />
+        <Data key="Port Format" value="12,0" />
       </Group>
     </Group>
     <Group key="e851a3b9-efb8-48be-bbb8-b303b216c393">
@@ -3417,7 +3417,7 @@
     </Group>
     <Group key="e33711c3-e3db-4181-971f-275c15236f96">
       <Group key="0">
-        <Data key="Port Format" value="12,1" />
+        <Data key="Port Format" value="1,3" />
       </Group>
     </Group>
     <Group key="ed304e19-08b0-4162-9a2c-4e6d5e748145">
@@ -3437,12 +3437,12 @@
     </Group>
     <Group key="f6279b0e-9d2b-41f3-a503-ed67b8851c9e">
       <Group key="0">
-        <Data key="Port Format" value="12,5" />
+        <Data key="Port Format" value="12,4" />
       </Group>
     </Group>
     <Group key="fec81979-9220-4a55-a1f9-df0c4b643a55">
       <Group key="0">
-        <Data key="Port Format" value="12,0" />
+        <Data key="Port Format" value="1,5" />
       </Group>
     </Group>
     <Group key="UnAssigned Pins" />
@@ -3455,12 +3455,12 @@
     <Data key="CYDEV_CONFIG_UNUSED_IO" value="AllowButWarn" />
     <Data key="CYDEV_CONFIGURATION_ECC" value="True" />
     <Data key="CYDEV_CONFIGURATION_MODE" value="COMPRESSED" />
-    <Data key="CYDEV_DEBUGGING_DPS" value="SWD_SWV" />
+    <Data key="CYDEV_DEBUGGING_DPS" value="Disable" />
     <Data key="CYDEV_DEBUGGING_XRES" value="False" />
     <Data key="CYDEV_ECC_ENABLE" value="False" />
     <Data key="CYDEV_HEAP_SIZE" value="0x80" />
     <Data key="CYDEV_INSTRUCT_CACHE_ENABLED" value="True" />
-    <Data key="CYDEV_PROTECTION_ENABLE" value="False" />
+    <Data key="CYDEV_PROTECTION_ENABLE" value="True" />
     <Data key="CYDEV_STACK_SIZE" value="0x0800" />
     <Data key="CYDEV_TEMPERATURE" value="-40C - 85/125C" />
     <Data key="CYDEV_TRACE_ENABLED" value="False" />
